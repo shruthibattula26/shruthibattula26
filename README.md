@@ -6,7 +6,7 @@
 - 💞️ Excited to collaborate on: impactful Data Analysis Projects 🔍💡.
 - 📫 Let’s connect:
 - ✉️ Email: shruthibattula1999@gmail.com
-- 🌐 LinkedIn: linkedin.com/in/contactshruthibattula
+- 🌐 LinkedIn: http://www.linkedin.com/in/contactshruthibattula
 - 🎯 Let’s transform data into meaningful stories and insights! 🌟
 
 
