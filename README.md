@@ -1,12 +1,13 @@
-- 👋 Hi there, I’m Shruthi Battula!
-- 👀 I’m fascinated by anything and everything Data! 📊✨
-- 🎓 I'm an MBA Graduate eager to kickstart my career as a Data Analyst or Business Analyst, turning data into actionable insights! 🚀
-- 🌱 I’m skilled in: Power BI 📊 | Python 🐍 | SQL 🛢️ | Tableau 📈 | Excel 📑... and always learning more!
-- 💞️ Excited to collaborate on: Data Analysis Projects that make an impact 🔍💡.
-- 📫 Let’s connect!
+- 👋 Hi, I’m Shruthi Battula!
+- 👀 Passionate about all things Data! 📊✨
+- 🎓 MBA Graduate eager to launch my career as a Data Analyst or Business Analyst, transforming data into actionable insights that drive decisions 🚀.
+- 🌱 Proficient in: Power BI 📊 | Python 🐍 | SQL 🛢️ | Tableau 📈 | Excel 📑... and always striving to learn more!
+- 📂 Explore my projects in various tools—check out my repositories, and view my Tableau projects on Tableau Public (Link Provided).
+- 💞️ Excited to collaborate on: impactful Data Analysis Projects 🔍💡.
+- 📫 Let’s connect:
 - ✉️ Email: shruthibattula1999@gmail.com
-- 🌐 LinkedIn: http://www.linkedin.com/in/contactshruthibattula
-- 🎯 Let’s turn data into stories and insights! 🌟
+- 🌐 LinkedIn: linkedin.com/in/contactshruthibattula
+- 🎯 Let’s transform data into meaningful stories and insights! 🌟
 
 
 <!---
